@@ -1,4 +1,4 @@
-# PDF Chatbot with Google Gemini
+# PDF Chatbot with Open AI
 
 A Streamlit-based chatbot that allows users to upload PDF documents and ask questions about their content using Google Gemini (Generative AI) for embeddings and chat completion.
 
@@ -30,7 +30,7 @@ A Streamlit-based chatbot that allows users to upload PDF documents and ask ques
    ```bash
     pip install -r requirements.txt
     ```
-3. **Set up Google Gemini API:**
+3. **Set up Open API:**
 4. Create a `.env` file in the root directory and add your Open API key:
    ```plaintext
    OPENAI_API_KEY=your_api_key_here
