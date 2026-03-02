@@ -40,3 +40,7 @@ A Streamlit-based chatbot that allows users to upload PDF documents and ask ques
     streamlit run chatbot.py
     streamlit run chatbot_grok.py
     ```
+6. **Access the app:**
+   Open your web browser and navigate to `http://localhost:8501` to interact with the chatbot.
+7. **Use site to get the grok keys:**
+   https://console.groq.com/keys
