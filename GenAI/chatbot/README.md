@@ -38,4 +38,5 @@ A Streamlit-based chatbot that allows users to upload PDF documents and ask ques
 5. **Run the Streamlit app:**
    ```bash
     streamlit run chatbot.py
+    streamlit run chatbot_grok.py
     ```
