@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 # Set your Groq API key here
-GROQ_API_KEY = ""
+GROQ_API_KEY = ""  #location for key should be at https://console.groq.com/keys
 
 st.header("Groq PDF Chatbot")
 
